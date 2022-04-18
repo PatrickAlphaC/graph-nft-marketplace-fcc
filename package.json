@@ -10,6 +10,7 @@
     "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 graph-nft-marketplace"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.10",
     "@graphprotocol/graph-cli": "0.28.0",
     "@graphprotocol/graph-ts": "0.26.0",
     "ethers": "^5.6.1"

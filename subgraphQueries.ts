@@ -13,5 +13,4 @@ const GET_ACTIVE_ITEMS = gql`
         }
     }
 `
-
 export default GET_ACTIVE_ITEMS
