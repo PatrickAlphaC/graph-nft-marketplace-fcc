@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum
     name: NftMarketplace
-    network: rinkeby
+    network: goerli
     source:
       address: "0x495cd12d23c4CEdfbefB112cdd08cd9f654D95C1"
       abi: NftMarketplace

@@ -10,7 +10,7 @@ yarn global add @graphprotocol/graph-cli
 
 2. Log into [the graph UI](https://thegraph.com/studio/subgraph) and create a new Subgraph.
 
-Use Rinkeby as the network. 
+Use Goerli as the network. 
 
 3. Initialize Subgraph
 
@@ -51,5 +51,5 @@ graph deploy --studio nft-marketplace -l VERSION_NUMBER_HERE
 Back in your hardhat project, mint and list an NFT with:
 
 ```
-yarn hardhat run scripts/mint-and-list-item.js --network rinkeby
+yarn hardhat run scripts/mint-and-list-item.js --network goerli
 ```
