@@ -1,5 +1,7 @@
 # Graph NFT Marketplace FCC
 
+*Be sure to double check if Rinkeby or Goerli is best for learning as Rinkeby is getting sunset*
+
 # Quickstart
 
 1. Install Subgraph CLI
