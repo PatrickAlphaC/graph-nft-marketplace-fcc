@@ -4,11 +4,11 @@ schema:
 dataSources:
   - kind: ethereum
     name: NftMarketplace
-    network: goerli
+    network: sepolia
     source:
-      address: "0x495cd12d23c4CEdfbefB112cdd08cd9f654D95C1"
+      address: "0x813c6080F2BCdB5855c4c6A8B5E3f3c6DF91008E"
       abi: NftMarketplace
-      startBlock: 10526140
+      startBlock: 3067519
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5
