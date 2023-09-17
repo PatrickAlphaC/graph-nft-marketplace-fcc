@@ -12,7 +12,7 @@ yarn global add @graphprotocol/graph-cli
 
 2. Log into [the graph UI](https://thegraph.com/studio/subgraph) and create a new Subgraph.
 
-Use Goerli as the network.
+Use `Ethereum Sepolia` as the network.
 
 3. Initialize Subgraph
 
